@@ -21,9 +21,9 @@ sitema de registro 2
 
 <h2>Para descargar el proyecto:</h2>
 
-1. -Hay que abrir en la pestaña de <code> y copiar el link-
+1. -Hay que abrir en la pestaña de "code" y copiar el link-
 2. -Crear una carpeta nueva en el ordenador y abrila con Git- (Se puede con comandos pero es mucho lío xd).
-3. git clone -codigo- -Para poder copiarlo en el repositorio local.
+3. git clone -link copiado- -Para poder copiarlo en el repositorio local.
 
 <h2>Restaurar archivos:</h2>
 
