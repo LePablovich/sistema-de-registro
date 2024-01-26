@@ -44,6 +44,7 @@ sitema de registro 2
 - Si presionas la barra superior de la página con el mouse y luego pulsas la tecla del punto en el teclado, se te abrirá un editor de código similar a VSC pero con ciertas limitaciones.
 
     - Si desear guardar cambios desde ahí, puedes hacerlo presionando (Ctrl+Mayus+G), o el botón de guardar códigos pendientes en la barra de la izquierda.
+    - git pull -Para descargar todos los cambios hechos en HitHub en tu repositorio local. Asegurate de no tener ningún cambio sin guardar en tu repositorio local.
 
 
 
