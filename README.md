@@ -16,4 +16,3 @@ Para guardar cambios:
 4. git push - Para subirlo a la nube (Que se actualice en GitHub).
 
 5. git status - Para ver si hay cambios.
-
